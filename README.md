@@ -26,7 +26,7 @@ The project compares:
 ## Repository Structure
 
 ```text
-RAG/
+mt5-arabic-narrative-qa-finetuning/
 │
 ├── chat-gpt5.4-nano-model/
 │   └── chatgpt_api_test_heldout_qa.ipynb
